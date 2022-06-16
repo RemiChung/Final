@@ -79,8 +79,8 @@ C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\bin\zh-Ha
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.csproj.AssemblyReference.cache
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.csproj.CoreCompileInputs.cache
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.csproj.CopyComplete
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.dll
 C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.pdb
+C:\Users\qpalz\Downloads\新增資料夾 (2)\Web410919140\Web410919140\obj\Debug\Web410919140.csproj.AssemblyReference.cache
